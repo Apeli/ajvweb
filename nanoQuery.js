@@ -5,6 +5,7 @@ var nq = {
 	}
 	, e : function(id)
 	{
-		return this.elem(id);
+		//Shortcut
+		return this.elem(id); 
 	}
 };
